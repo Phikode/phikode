@@ -310,6 +310,12 @@ section[id]{ scroll-margin-top: var(--nav-h); }
 @media (max-width: 900px){
   :root{ --nav-h: 64px; }
 
+    .section-navbar{
+  background-position: 70% 0;
+  
+}
+
+
   .nav-toggle{ display:block; }
 
   /* nascondo i link su mobile */

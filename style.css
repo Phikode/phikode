@@ -320,10 +320,6 @@ section[id]{ scroll-margin-top: var(--nav-h); }
     background-position: center top;
     }
 
-    .hero-title{
-    padding: 10px;
-    margin: 10px 0 10px 40px;
-    }
 
   .nav-toggle{ display:block; }
 

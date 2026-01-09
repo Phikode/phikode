@@ -315,9 +315,11 @@ section[id]{ scroll-margin-top: var(--nav-h); }
     }
     .section-navbar{
     background-position: left 65% top 0;
+    background-size: auto;
     }   
     .hero{
     background-position: left 65%  top 0;
+    background-size: auto;
     }
   .nav-toggle{ display:block; }
 
